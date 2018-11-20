@@ -33,3 +33,7 @@ Each year data set is stored in 4 distinct files:
 * `votes` - votes cast for the party in the polling station
 
 All data files contain exactly one header row with column names. All data files are semicolon separated.
+
+# Updates
+
+2018 November 20. Added 2016 election data.
