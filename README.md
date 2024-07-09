@@ -1,9 +1,8 @@
 # Lithuanian parliamentary election data
-This repository stores a cleaned up version of Lithuanian parliamentary election voting data. The original data sets are freely available from https://www.rinkejopuslapis.lt/ataskaitu-formavimas website. The original data sets were downloaded on August 31, 2016. Some minor issues were fixed (mismatched total votes counts).
 
-This data set was studied in a paper "Empirical analysis and agent-based modeling of Lithuanian parliamentary elections". You may freely reuse the data in your analysis. Refering to the paper would be appreciated. 
+This repository stores a cleaned up version of Lithuanian parliamentary election voting data. The original data sets are freely available from <https://www.rinkejopuslapis.lt/ataskaitu-formavimas> website. The original data sets were downloaded on August 31, 2016. Some minor issues were fixed (mismatched total votes counts).
 
-**Reference:** A. Kononovicius, *Empirical analysis and agent-based modeling of Lithuanian parliamentary elections*, Complexity **2017**: 7354642. doi: [10.1155/2017/7354642](https://dx.doi.org/10.1155/2017/7354642). arXiv: [1704.02101 [physics.soc-ph]](https://arxiv.org/abs/1704.02101).
+This data set was studied in a paper [1]. You may freely reuse the data in your analysis. Though a reference to [1] would be appreciated. 
 
 Note that this data set does not contain any data about voting by post (preliminary voting) as well as no votes cast in embassies and consulates.
 
@@ -38,3 +37,7 @@ All data files contain exactly one header row with column names. All data files 
 
 * 2018 November 20. Added 2016 election data.
 * 2024 July 7. Added 2020 election data.
+
+# References
+
+1. A. Kononovicius, *Empirical analysis and agent-based modeling of Lithuanian parliamentary elections*, Complexity **2017**: 7354642. doi: [10.1155/2017/7354642](https://dx.doi.org/10.1155/2017/7354642). arXiv: [1704.02101 [physics.soc-ph]](https://arxiv.org/abs/1704.02101).
