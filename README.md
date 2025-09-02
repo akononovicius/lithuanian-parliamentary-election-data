@@ -41,8 +41,9 @@ directory). It was tested on the 2020 election data.
 
 # Updates
 
-* 2018 November 20. Added 2016 election data.
-* 2024 July 7. Added 2020 election data.
+* 2018-11-20. Added 2016 election data.
+* 2024-07-07. Added 2020 election data.
+* 2025-09-02. Added 2024 election data.
 
 # References
 
