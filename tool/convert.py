@@ -88,7 +88,7 @@ def write_minor(
         )
         .sort("minor_gid")
     )
-    minor_df.write_csv(f"{year:.0f}-minor.csv")
+    minor_df.write_csv(f"{year:.0f}-minor-district.csv")
     return minor_df
 
 
